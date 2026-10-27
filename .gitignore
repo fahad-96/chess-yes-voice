@@ -1,0 +1,8 @@
+node_modules/
+pack/
+pack-*/
+dist/
+.cache/
+*.tmp
+.DS_Store
+test-pack/

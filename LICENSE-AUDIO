@@ -1,0 +1,21 @@
+Chess Yes voice pack by Fahad Yousuf, generated with Kokoro-82M
+
+The audio files in this voice pack (the .mp3 clips and manifest.json in the
+release archives) are licensed under the Creative Commons Attribution 4.0
+International licence (CC BY 4.0):
+
+    https://creativecommons.org/licenses/by/4.0/
+
+You may share and adapt them for any purpose, including commercially, as long
+as you give appropriate credit, link to the licence and indicate if changes
+were made. Suggested attribution:
+
+    "Chess Yes voice pack by Fahad Yousuf, generated with Kokoro-82M"
+    (https://github.com/fahad-96/chess-yes-voice), CC BY 4.0
+
+The clips were synthesised with the Kokoro-82M text-to-speech model by hexgrad
+(https://huggingface.co/hexgrad/Kokoro-82M), voice "af_bella", which is
+released under the Apache License 2.0.
+
+The source code in this repository is licensed separately under the MIT
+licence (see LICENSE).

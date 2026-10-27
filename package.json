@@ -1,0 +1,24 @@
+{
+  "name": "chess-yes-voice",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Pre-rendered coach voice pack for Chess Yes, the free chess game review app.",
+  "license": "MIT",
+  "author": "Fahad Yousuf (https://fahad-yousuf.netlify.app/)",
+  "homepage": "https://chessyes.netlify.app",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "render": "node render.mjs",
+    "pack": "node pack.mjs",
+    "test": "node test/selftest.mjs",
+    "check": "node --check render.mjs && node --check pack.mjs && node test/selftest.mjs"
+  },
+  "devDependencies": {
+    "@breezystack/lamejs": "1.2.7",
+    "@huggingface/transformers": "3.8.1",
+    "kokoro-js": "1.2.1"
+  }
+}
